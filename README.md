@@ -1,9 +1,12 @@
- ## 嗨，我是許祐瑋
-我是中原大學的學生，目前正在學習計算機概論
- ## 關於我
- - 系級：智運大一
-- 正在學習：Python、GitHub
-- 感興趣主題：睡覺
-- 這學期的目標：系排一
-## 我的作品
-- [中原智運](https://icbd.cycu.edu.tw/)
+## Hi, I'm Yu-Wei Hsu 👋
+
+🎓 Freshman at Chung Yuan Christian University, Undergraduate Program in Intelligent Computing and Big Data
+## About me
+-  Department: Undergraduate Program in Intelligent Computing and Big Data 1 grade
+-	 Currently learning Python and GitHub
+-  Goal this semester: Build a solid foundation in this course and get Rank #1 in my department
+-  When I'm not working, I'm probably... sleeping
+## My projects
+nothing
+# Website
+- [CYCU ICBD](https://icbd.cycu.edu.tw/)
