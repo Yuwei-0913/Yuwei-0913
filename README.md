@@ -1,6 +1,6 @@
-## Hi, I'm Yu-Wei Hsu 👋
+## Hi, I'm Yu-Wei Hsu 👻
 
-🎓 Freshman at Chung Yuan Christian University, Undergraduate Program in Intelligent Computing and Big Data
+ Freshman at Chung Yuan Christian University, Undergraduate Program in Intelligent Computing and Big Data
 ## About me
 -  Department: Undergraduate Program in Intelligent Computing and Big Data 1 grade
 -	 Currently learning Python and GitHub
