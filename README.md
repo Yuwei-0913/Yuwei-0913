@@ -1,6 +1,6 @@
 ## Hi, I'm Yu-Wei Hsu 👻
 
- Freshman at Chung Yuan Christian University, Undergraduate Program in Intelligent Computing and Big Data
+ Freshman at Chung Yuan Christian University, Undergraduate Program in Intelligent Computing and Big Data,currently learning the Introduction to Computer Science
 ## About me
 -  Department: Undergraduate Program in Intelligent Computing and Big Data 1 grade
 -	 Currently learning Python and GitHub
@@ -8,5 +8,5 @@
 -  When I'm not working, I'm probably... sleeping
 ## My projects
 nothing
-# Website
+## Website
 - [CYCU ICBD](https://icbd.cycu.edu.tw/)
